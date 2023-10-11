@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../libtolualib.a CMakeFiles/tolualib.dir/src/lib/tolua_event.cpp.o CMakeFiles/tolualib.dir/src/lib/tolua_is.cpp.o CMakeFiles/tolualib.dir/src/lib/tolua_map.cpp.o CMakeFiles/tolualib.dir/src/lib/tolua_push.cpp.o CMakeFiles/tolualib.dir/src/lib/tolua_to.cpp.o
+/usr/bin/ranlib ../libtolualib.a

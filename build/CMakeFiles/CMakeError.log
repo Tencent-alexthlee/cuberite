@@ -1,0 +1,1213 @@
+Determining if the strtod_l exist failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_47043/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_47043.dir/build.make CMakeFiles/cmTC_47043.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_47043.dir/CheckSymbolExists.c.o
+/usr/lib64/ccache/cc    -o CMakeFiles/cmTC_47043.dir/CheckSymbolExists.c.o -c /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: 在函数‘main’中:
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: 错误：‘strtod_l’ undeclared (first use in this function); did you mean ‘strtoull’?
+   return ((int*)(&strtod_l))[argc];
+                   ^~~~~~~~
+                   strtoull
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: 附注：每个未声明的标识符在其出现的函数内只报告一次
+gmake[1]: *** [CMakeFiles/cmTC_47043.dir/build.make:78：CMakeFiles/cmTC_47043.dir/CheckSymbolExists.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_47043/fast] 错误 2
+
+
+File /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strtod_l
+  return ((int*)(&strtod_l))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if files fcntl.h;inttypes.h;memory.h;signal.h;stdarg.h;stddef.h;stdint.h;stdlib.h;string.h;errno.h;unistd.h;time.h;sys/types.h;sys/stat.h;sys/time.h;sys/param.h;netdb.h;dlfcn.h;arpa/inet.h;poll.h;port.h exist failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_379ba/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_379ba.dir/build.make CMakeFiles/cmTC_379ba.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_379ba.dir/EVENT__HAVE_PORT_H.c.o
+/usr/lib64/ccache/cc -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_379ba.dir/EVENT__HAVE_PORT_H.c.o -c /data/landun/workspace/build/CMakeFiles/CheckIncludeFiles/EVENT__HAVE_PORT_H.c
+/data/landun/workspace/build/CMakeFiles/CheckIncludeFiles/EVENT__HAVE_PORT_H.c:22:10: 致命错误：port.h：没有那个文件或目录
+ #include <port.h>
+          ^~~~~~~~
+编译中断。
+gmake[1]: *** [CMakeFiles/cmTC_379ba.dir/build.make:78：CMakeFiles/cmTC_379ba.dir/EVENT__HAVE_PORT_H.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_379ba/fast] 错误 2
+
+
+Source:
+/* */
+#include <fcntl.h>
+#include <inttypes.h>
+#include <memory.h>
+#include <signal.h>
+#include <stdarg.h>
+#include <stddef.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <errno.h>
+#include <unistd.h>
+#include <time.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <sys/param.h>
+#include <netdb.h>
+#include <dlfcn.h>
+#include <arpa/inet.h>
+#include <poll.h>
+#include <port.h>
+
+
+int main(void){return 0;}
+
+Determining if files fcntl.h;inttypes.h;memory.h;signal.h;stdarg.h;stddef.h;stdint.h;stdlib.h;string.h;errno.h;unistd.h;time.h;sys/types.h;sys/stat.h;sys/time.h;sys/param.h;netdb.h;dlfcn.h;arpa/inet.h;poll.h;sys/socket.h;sys/random.h;sys/un.h;sys/devpoll.h exist failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_fa2e1/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_fa2e1.dir/build.make CMakeFiles/cmTC_fa2e1.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_fa2e1.dir/EVENT__HAVE_SYS_DEVPOLL_H.c.o
+/usr/lib64/ccache/cc -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_fa2e1.dir/EVENT__HAVE_SYS_DEVPOLL_H.c.o -c /data/landun/workspace/build/CMakeFiles/CheckIncludeFiles/EVENT__HAVE_SYS_DEVPOLL_H.c
+/data/landun/workspace/build/CMakeFiles/CheckIncludeFiles/EVENT__HAVE_SYS_DEVPOLL_H.c:25:10: 致命错误：sys/devpoll.h：没有那个文件或目录
+ #include <sys/devpoll.h>
+          ^~~~~~~~~~~~~~~
+编译中断。
+gmake[1]: *** [CMakeFiles/cmTC_fa2e1.dir/build.make:78：CMakeFiles/cmTC_fa2e1.dir/EVENT__HAVE_SYS_DEVPOLL_H.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_fa2e1/fast] 错误 2
+
+
+Source:
+/* */
+#include <fcntl.h>
+#include <inttypes.h>
+#include <memory.h>
+#include <signal.h>
+#include <stdarg.h>
+#include <stddef.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <errno.h>
+#include <unistd.h>
+#include <time.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <sys/param.h>
+#include <netdb.h>
+#include <dlfcn.h>
+#include <arpa/inet.h>
+#include <poll.h>
+#include <sys/socket.h>
+#include <sys/random.h>
+#include <sys/un.h>
+#include <sys/devpoll.h>
+
+
+int main(void){return 0;}
+
+Determining if files fcntl.h;inttypes.h;memory.h;signal.h;stdarg.h;stddef.h;stdint.h;stdlib.h;string.h;errno.h;unistd.h;time.h;sys/types.h;sys/stat.h;sys/time.h;sys/param.h;netdb.h;dlfcn.h;arpa/inet.h;poll.h;sys/socket.h;sys/random.h;sys/un.h;sys/epoll.h;sys/eventfd.h;sys/event.h exist failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_dd2a8/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_dd2a8.dir/build.make CMakeFiles/cmTC_dd2a8.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_dd2a8.dir/EVENT__HAVE_SYS_EVENT_H.c.o
+/usr/lib64/ccache/cc -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_dd2a8.dir/EVENT__HAVE_SYS_EVENT_H.c.o -c /data/landun/workspace/build/CMakeFiles/CheckIncludeFiles/EVENT__HAVE_SYS_EVENT_H.c
+/data/landun/workspace/build/CMakeFiles/CheckIncludeFiles/EVENT__HAVE_SYS_EVENT_H.c:27:10: 致命错误：sys/event.h：没有那个文件或目录
+ #include <sys/event.h>
+          ^~~~~~~~~~~~~
+编译中断。
+gmake[1]: *** [CMakeFiles/cmTC_dd2a8.dir/build.make:78：CMakeFiles/cmTC_dd2a8.dir/EVENT__HAVE_SYS_EVENT_H.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_dd2a8/fast] 错误 2
+
+
+Source:
+/* */
+#include <fcntl.h>
+#include <inttypes.h>
+#include <memory.h>
+#include <signal.h>
+#include <stdarg.h>
+#include <stddef.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <errno.h>
+#include <unistd.h>
+#include <time.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <sys/param.h>
+#include <netdb.h>
+#include <dlfcn.h>
+#include <arpa/inet.h>
+#include <poll.h>
+#include <sys/socket.h>
+#include <sys/random.h>
+#include <sys/un.h>
+#include <sys/epoll.h>
+#include <sys/eventfd.h>
+#include <sys/event.h>
+
+
+int main(void){return 0;}
+
+Determining if files fcntl.h;inttypes.h;memory.h;signal.h;stdarg.h;stddef.h;stdint.h;stdlib.h;string.h;errno.h;unistd.h;time.h;sys/types.h;sys/stat.h;sys/time.h;sys/param.h;netdb.h;dlfcn.h;arpa/inet.h;poll.h;sys/socket.h;sys/random.h;sys/un.h;sys/epoll.h;sys/eventfd.h;sys/ioctl.h;sys/mman.h;sys/queue.h;sys/select.h;sys/sendfile.h;sys/uio.h;sys/wait.h;sys/resource.h;sys/timerfd.h;netinet/in.h;netinet/in6.h exist failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_1097c/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_1097c.dir/build.make CMakeFiles/cmTC_1097c.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_1097c.dir/EVENT__HAVE_NETINET_IN6_H.c.o
+/usr/lib64/ccache/cc -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_1097c.dir/EVENT__HAVE_NETINET_IN6_H.c.o -c /data/landun/workspace/build/CMakeFiles/CheckIncludeFiles/EVENT__HAVE_NETINET_IN6_H.c
+/data/landun/workspace/build/CMakeFiles/CheckIncludeFiles/EVENT__HAVE_NETINET_IN6_H.c:37:10: 致命错误：netinet/in6.h：没有那个文件或目录
+ #include <netinet/in6.h>
+          ^~~~~~~~~~~~~~~
+编译中断。
+gmake[1]: *** [CMakeFiles/cmTC_1097c.dir/build.make:78：CMakeFiles/cmTC_1097c.dir/EVENT__HAVE_NETINET_IN6_H.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_1097c/fast] 错误 2
+
+
+Source:
+/* */
+#include <fcntl.h>
+#include <inttypes.h>
+#include <memory.h>
+#include <signal.h>
+#include <stdarg.h>
+#include <stddef.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <errno.h>
+#include <unistd.h>
+#include <time.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <sys/param.h>
+#include <netdb.h>
+#include <dlfcn.h>
+#include <arpa/inet.h>
+#include <poll.h>
+#include <sys/socket.h>
+#include <sys/random.h>
+#include <sys/un.h>
+#include <sys/epoll.h>
+#include <sys/eventfd.h>
+#include <sys/ioctl.h>
+#include <sys/mman.h>
+#include <sys/queue.h>
+#include <sys/select.h>
+#include <sys/sendfile.h>
+#include <sys/uio.h>
+#include <sys/wait.h>
+#include <sys/resource.h>
+#include <sys/timerfd.h>
+#include <netinet/in.h>
+#include <netinet/in6.h>
+
+
+int main(void){return 0;}
+
+Determining if the strlcpy exist failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_617fe/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_617fe.dir/build.make CMakeFiles/cmTC_617fe.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_617fe.dir/CheckSymbolExists.c.o
+/usr/lib64/ccache/cc -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_617fe.dir/CheckSymbolExists.c.o -c /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: 在函数‘main’中:
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:45:19: 错误：‘strlcpy’ undeclared (first use in this function); did you mean ‘strncpy’?
+   return ((int*)(&strlcpy))[argc];
+                   ^~~~~~~
+                   strncpy
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:45:19: 附注：每个未声明的标识符在其出现的函数内只报告一次
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:41:14: 警告：形参‘argc’被设定但未被使用 [-Wunused-but-set-parameter]
+ int main(int argc, char** argv)
+          ~~~~^~~~
+gmake[1]: *** [CMakeFiles/cmTC_617fe.dir/build.make:78：CMakeFiles/cmTC_617fe.dir/CheckSymbolExists.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_617fe/fast] 错误 2
+
+
+File /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <fcntl.h>
+#include <inttypes.h>
+#include <memory.h>
+#include <signal.h>
+#include <stdarg.h>
+#include <stddef.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <errno.h>
+#include <unistd.h>
+#include <time.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <sys/param.h>
+#include <netdb.h>
+#include <dlfcn.h>
+#include <arpa/inet.h>
+#include <poll.h>
+#include <sys/socket.h>
+#include <sys/random.h>
+#include <sys/un.h>
+#include <sys/epoll.h>
+#include <sys/eventfd.h>
+#include <sys/ioctl.h>
+#include <sys/mman.h>
+#include <sys/queue.h>
+#include <sys/select.h>
+#include <sys/sendfile.h>
+#include <sys/uio.h>
+#include <sys/wait.h>
+#include <sys/resource.h>
+#include <sys/timerfd.h>
+#include <netinet/in.h>
+#include <netinet/tcp.h>
+#include <ifaddrs.h>
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strlcpy
+  return ((int*)(&strlcpy))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the port_create exist failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_85df3/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_85df3.dir/build.make CMakeFiles/cmTC_85df3.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_85df3.dir/CheckSymbolExists.c.o
+/usr/lib64/ccache/cc -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_85df3.dir/CheckSymbolExists.c.o -c /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: 在函数‘main’中:
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:45:19: 错误：‘port_create’ undeclared (first use in this function); did you mean ‘epoll_create’?
+   return ((int*)(&port_create))[argc];
+                   ^~~~~~~~~~~
+                   epoll_create
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:45:19: 附注：每个未声明的标识符在其出现的函数内只报告一次
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:41:14: 警告：形参‘argc’被设定但未被使用 [-Wunused-but-set-parameter]
+ int main(int argc, char** argv)
+          ~~~~^~~~
+gmake[1]: *** [CMakeFiles/cmTC_85df3.dir/build.make:78：CMakeFiles/cmTC_85df3.dir/CheckSymbolExists.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_85df3/fast] 错误 2
+
+
+File /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <fcntl.h>
+#include <inttypes.h>
+#include <memory.h>
+#include <signal.h>
+#include <stdarg.h>
+#include <stddef.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <errno.h>
+#include <unistd.h>
+#include <time.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <sys/param.h>
+#include <netdb.h>
+#include <dlfcn.h>
+#include <arpa/inet.h>
+#include <poll.h>
+#include <sys/socket.h>
+#include <sys/random.h>
+#include <sys/un.h>
+#include <sys/epoll.h>
+#include <sys/eventfd.h>
+#include <sys/ioctl.h>
+#include <sys/mman.h>
+#include <sys/queue.h>
+#include <sys/select.h>
+#include <sys/sendfile.h>
+#include <sys/uio.h>
+#include <sys/wait.h>
+#include <sys/resource.h>
+#include <sys/timerfd.h>
+#include <netinet/in.h>
+#include <netinet/tcp.h>
+#include <ifaddrs.h>
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef port_create
+  return ((int*)(&port_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the kqueue exist failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_81bfd/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_81bfd.dir/build.make CMakeFiles/cmTC_81bfd.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_81bfd.dir/CheckSymbolExists.c.o
+/usr/lib64/ccache/cc -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_81bfd.dir/CheckSymbolExists.c.o -c /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: 在函数‘main’中:
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:45:19: 错误：‘kqueue’ undeclared (first use in this function); did you mean ‘sigqueue’?
+   return ((int*)(&kqueue))[argc];
+                   ^~~~~~
+                   sigqueue
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:45:19: 附注：每个未声明的标识符在其出现的函数内只报告一次
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:41:14: 警告：形参‘argc’被设定但未被使用 [-Wunused-but-set-parameter]
+ int main(int argc, char** argv)
+          ~~~~^~~~
+gmake[1]: *** [CMakeFiles/cmTC_81bfd.dir/build.make:78：CMakeFiles/cmTC_81bfd.dir/CheckSymbolExists.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_81bfd/fast] 错误 2
+
+
+File /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <fcntl.h>
+#include <inttypes.h>
+#include <memory.h>
+#include <signal.h>
+#include <stdarg.h>
+#include <stddef.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <errno.h>
+#include <unistd.h>
+#include <time.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <sys/param.h>
+#include <netdb.h>
+#include <dlfcn.h>
+#include <arpa/inet.h>
+#include <poll.h>
+#include <sys/socket.h>
+#include <sys/random.h>
+#include <sys/un.h>
+#include <sys/epoll.h>
+#include <sys/eventfd.h>
+#include <sys/ioctl.h>
+#include <sys/mman.h>
+#include <sys/queue.h>
+#include <sys/select.h>
+#include <sys/sendfile.h>
+#include <sys/uio.h>
+#include <sys/wait.h>
+#include <sys/resource.h>
+#include <sys/timerfd.h>
+#include <netinet/in.h>
+#include <netinet/tcp.h>
+#include <ifaddrs.h>
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef kqueue
+  return ((int*)(&kqueue))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the sysctl exist failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_bddac/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_bddac.dir/build.make CMakeFiles/cmTC_bddac.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_bddac.dir/CheckSymbolExists.c.o
+/usr/lib64/ccache/cc -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_bddac.dir/CheckSymbolExists.c.o -c /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: 在函数‘main’中:
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:45:19: 错误：‘sysctl’ undeclared (first use in this function); did you mean ‘syscall’?
+   return ((int*)(&sysctl))[argc];
+                   ^~~~~~
+                   syscall
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:45:19: 附注：每个未声明的标识符在其出现的函数内只报告一次
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:41:14: 警告：形参‘argc’被设定但未被使用 [-Wunused-but-set-parameter]
+ int main(int argc, char** argv)
+          ~~~~^~~~
+gmake[1]: *** [CMakeFiles/cmTC_bddac.dir/build.make:78：CMakeFiles/cmTC_bddac.dir/CheckSymbolExists.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_bddac/fast] 错误 2
+
+
+File /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <fcntl.h>
+#include <inttypes.h>
+#include <memory.h>
+#include <signal.h>
+#include <stdarg.h>
+#include <stddef.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <errno.h>
+#include <unistd.h>
+#include <time.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <sys/param.h>
+#include <netdb.h>
+#include <dlfcn.h>
+#include <arpa/inet.h>
+#include <poll.h>
+#include <sys/socket.h>
+#include <sys/random.h>
+#include <sys/un.h>
+#include <sys/epoll.h>
+#include <sys/eventfd.h>
+#include <sys/ioctl.h>
+#include <sys/mman.h>
+#include <sys/queue.h>
+#include <sys/select.h>
+#include <sys/sendfile.h>
+#include <sys/uio.h>
+#include <sys/wait.h>
+#include <sys/resource.h>
+#include <sys/timerfd.h>
+#include <netinet/in.h>
+#include <netinet/tcp.h>
+#include <ifaddrs.h>
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef sysctl
+  return ((int*)(&sysctl))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the arc4random exist failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_e79dc/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_e79dc.dir/build.make CMakeFiles/cmTC_e79dc.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_e79dc.dir/CheckSymbolExists.c.o
+/usr/lib64/ccache/cc -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_e79dc.dir/CheckSymbolExists.c.o -c /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: 在函数‘main’中:
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:45:19: 错误：‘arc4random’ undeclared (first use in this function); did you mean ‘getrandom’?
+   return ((int*)(&arc4random))[argc];
+                   ^~~~~~~~~~
+                   getrandom
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:45:19: 附注：每个未声明的标识符在其出现的函数内只报告一次
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:41:14: 警告：形参‘argc’被设定但未被使用 [-Wunused-but-set-parameter]
+ int main(int argc, char** argv)
+          ~~~~^~~~
+gmake[1]: *** [CMakeFiles/cmTC_e79dc.dir/build.make:78：CMakeFiles/cmTC_e79dc.dir/CheckSymbolExists.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_e79dc/fast] 错误 2
+
+
+File /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <fcntl.h>
+#include <inttypes.h>
+#include <memory.h>
+#include <signal.h>
+#include <stdarg.h>
+#include <stddef.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <errno.h>
+#include <unistd.h>
+#include <time.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <sys/param.h>
+#include <netdb.h>
+#include <dlfcn.h>
+#include <arpa/inet.h>
+#include <poll.h>
+#include <sys/socket.h>
+#include <sys/random.h>
+#include <sys/un.h>
+#include <sys/epoll.h>
+#include <sys/eventfd.h>
+#include <sys/ioctl.h>
+#include <sys/mman.h>
+#include <sys/queue.h>
+#include <sys/select.h>
+#include <sys/sendfile.h>
+#include <sys/uio.h>
+#include <sys/wait.h>
+#include <sys/resource.h>
+#include <sys/timerfd.h>
+#include <netinet/in.h>
+#include <netinet/tcp.h>
+#include <ifaddrs.h>
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef arc4random
+  return ((int*)(&arc4random))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the arc4random_buf exist failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_11e9d/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_11e9d.dir/build.make CMakeFiles/cmTC_11e9d.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_11e9d.dir/CheckSymbolExists.c.o
+/usr/lib64/ccache/cc -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_11e9d.dir/CheckSymbolExists.c.o -c /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: 在函数‘main’中:
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:45:19: 错误：‘arc4random_buf’ undeclared (first use in this function); did you mean ‘srandom_r’?
+   return ((int*)(&arc4random_buf))[argc];
+                   ^~~~~~~~~~~~~~
+                   srandom_r
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:45:19: 附注：每个未声明的标识符在其出现的函数内只报告一次
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:41:14: 警告：形参‘argc’被设定但未被使用 [-Wunused-but-set-parameter]
+ int main(int argc, char** argv)
+          ~~~~^~~~
+gmake[1]: *** [CMakeFiles/cmTC_11e9d.dir/build.make:78：CMakeFiles/cmTC_11e9d.dir/CheckSymbolExists.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_11e9d/fast] 错误 2
+
+
+File /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <fcntl.h>
+#include <inttypes.h>
+#include <memory.h>
+#include <signal.h>
+#include <stdarg.h>
+#include <stddef.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <errno.h>
+#include <unistd.h>
+#include <time.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <sys/param.h>
+#include <netdb.h>
+#include <dlfcn.h>
+#include <arpa/inet.h>
+#include <poll.h>
+#include <sys/socket.h>
+#include <sys/random.h>
+#include <sys/un.h>
+#include <sys/epoll.h>
+#include <sys/eventfd.h>
+#include <sys/ioctl.h>
+#include <sys/mman.h>
+#include <sys/queue.h>
+#include <sys/select.h>
+#include <sys/sendfile.h>
+#include <sys/uio.h>
+#include <sys/wait.h>
+#include <sys/resource.h>
+#include <sys/timerfd.h>
+#include <netinet/in.h>
+#include <netinet/tcp.h>
+#include <ifaddrs.h>
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef arc4random_buf
+  return ((int*)(&arc4random_buf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the arc4random_addrandom exist failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_0c468/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_0c468.dir/build.make CMakeFiles/cmTC_0c468.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_0c468.dir/CheckSymbolExists.c.o
+/usr/lib64/ccache/cc -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_0c468.dir/CheckSymbolExists.c.o -c /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: 在函数‘main’中:
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:45:19: 错误：‘arc4random_addrandom’未声明(在此函数内第一次使用)
+   return ((int*)(&arc4random_addrandom))[argc];
+                   ^~~~~~~~~~~~~~~~~~~~
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:45:19: 附注：每个未声明的标识符在其出现的函数内只报告一次
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:41:14: 警告：形参‘argc’被设定但未被使用 [-Wunused-but-set-parameter]
+ int main(int argc, char** argv)
+          ~~~~^~~~
+gmake[1]: *** [CMakeFiles/cmTC_0c468.dir/build.make:78：CMakeFiles/cmTC_0c468.dir/CheckSymbolExists.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_0c468/fast] 错误 2
+
+
+File /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <fcntl.h>
+#include <inttypes.h>
+#include <memory.h>
+#include <signal.h>
+#include <stdarg.h>
+#include <stddef.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <errno.h>
+#include <unistd.h>
+#include <time.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <sys/param.h>
+#include <netdb.h>
+#include <dlfcn.h>
+#include <arpa/inet.h>
+#include <poll.h>
+#include <sys/socket.h>
+#include <sys/random.h>
+#include <sys/un.h>
+#include <sys/epoll.h>
+#include <sys/eventfd.h>
+#include <sys/ioctl.h>
+#include <sys/mman.h>
+#include <sys/queue.h>
+#include <sys/select.h>
+#include <sys/sendfile.h>
+#include <sys/uio.h>
+#include <sys/wait.h>
+#include <sys/resource.h>
+#include <sys/timerfd.h>
+#include <netinet/in.h>
+#include <netinet/tcp.h>
+#include <ifaddrs.h>
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef arc4random_addrandom
+  return ((int*)(&arc4random_addrandom))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the issetugid exist failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_44007/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_44007.dir/build.make CMakeFiles/cmTC_44007.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_44007.dir/CheckSymbolExists.c.o
+/usr/lib64/ccache/cc -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_44007.dir/CheckSymbolExists.c.o -c /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: 在函数‘main’中:
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:45:19: 错误：‘issetugid’ undeclared (first use in this function); did you mean ‘setegid’?
+   return ((int*)(&issetugid))[argc];
+                   ^~~~~~~~~
+                   setegid
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:45:19: 附注：每个未声明的标识符在其出现的函数内只报告一次
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:41:14: 警告：形参‘argc’被设定但未被使用 [-Wunused-but-set-parameter]
+ int main(int argc, char** argv)
+          ~~~~^~~~
+gmake[1]: *** [CMakeFiles/cmTC_44007.dir/build.make:78：CMakeFiles/cmTC_44007.dir/CheckSymbolExists.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_44007/fast] 错误 2
+
+
+File /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <fcntl.h>
+#include <inttypes.h>
+#include <memory.h>
+#include <signal.h>
+#include <stdarg.h>
+#include <stddef.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <errno.h>
+#include <unistd.h>
+#include <time.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <sys/param.h>
+#include <netdb.h>
+#include <dlfcn.h>
+#include <arpa/inet.h>
+#include <poll.h>
+#include <sys/socket.h>
+#include <sys/random.h>
+#include <sys/un.h>
+#include <sys/epoll.h>
+#include <sys/eventfd.h>
+#include <sys/ioctl.h>
+#include <sys/mman.h>
+#include <sys/queue.h>
+#include <sys/select.h>
+#include <sys/sendfile.h>
+#include <sys/uio.h>
+#include <sys/wait.h>
+#include <sys/resource.h>
+#include <sys/timerfd.h>
+#include <netinet/in.h>
+#include <netinet/tcp.h>
+#include <ifaddrs.h>
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef issetugid
+  return ((int*)(&issetugid))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the prototype gethostbyname_r exists for EVENT__HAVE_GETHOSTBYNAME_R_3_ARG failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_14019/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_14019.dir/build.make CMakeFiles/cmTC_14019.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_14019.dir/CheckPrototypeDefinition.c.o
+/usr/lib64/ccache/cc -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_14019.dir/CheckPrototypeDefinition.c.o -c /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckPrototypeDefinition.c
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckPrototypeDefinition.c:14:66: 警告：‘struct hostent_data’ declared inside parameter list will not be visible outside of this definition or declaration
+ int gethostbyname_r(const char *name, struct hostent *hp, struct hostent_data *hdata) {
+                                                                  ^~~~~~~~~~~~
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckPrototypeDefinition.c:14:5: 错误：与‘gethostbyname_r’类型冲突
+ int gethostbyname_r(const char *name, struct hostent *hp, struct hostent_data *hdata) {
+     ^~~~~~~~~~~~~~~
+In file included from /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckPrototypeDefinition.c:1:
+/usr/include/netdb.h:177:12: 附注：‘gethostbyname_r’的上一个声明在此
+ extern int gethostbyname_r (const char *__restrict __name,
+            ^~~~~~~~~~~~~~~
+gmake[1]: *** [CMakeFiles/cmTC_14019.dir/build.make:78：CMakeFiles/cmTC_14019.dir/CheckPrototypeDefinition.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_14019/fast] 错误 2
+
+
+
+#include <netdb.h>
+
+
+static void cmakeRequireSymbol(int dummy, ...) {
+  (void) dummy;
+}
+
+static void checkSymbol(void) {
+#ifndef gethostbyname_r
+  cmakeRequireSymbol(0, &gethostbyname_r);
+#endif
+}
+
+int gethostbyname_r(const char *name, struct hostent *hp, struct hostent_data *hdata) {
+  return 0;
+}
+
+#ifdef __CLASSIC_C__
+int main() {
+  int ac;
+  char*av[];
+#else
+int main(int ac, char *av[]) {
+#endif
+  checkSymbol();
+  if (ac > 1000) {
+    return *av[0];
+  }
+  return 0;
+}
+
+
+Determining if the prototype gethostbyname_r exists for EVENT__HAVE_GETHOSTBYNAME_R_5_ARG failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_7f3e4/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_7f3e4.dir/build.make CMakeFiles/cmTC_7f3e4.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_7f3e4.dir/CheckPrototypeDefinition.c.o
+/usr/lib64/ccache/cc -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_7f3e4.dir/CheckPrototypeDefinition.c.o -c /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckPrototypeDefinition.c
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckPrototypeDefinition.c:14:17: 错误：与‘gethostbyname_r’类型冲突
+ struct hostent *gethostbyname_r(const char *name, struct hostent *hp, char *buf, size_t buflen, int *herr) {
+                 ^~~~~~~~~~~~~~~
+In file included from /data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckPrototypeDefinition.c:1:
+/usr/include/netdb.h:177:12: 附注：‘gethostbyname_r’的上一个声明在此
+ extern int gethostbyname_r (const char *__restrict __name,
+            ^~~~~~~~~~~~~~~
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckPrototypeDefinition.c: 在函数‘gethostbyname_r’中:
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckPrototypeDefinition.c:15:10: 错误：‘NULL’未声明(在此函数内第一次使用)
+   return NULL;
+          ^~~~
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckPrototypeDefinition.c:15:10: 附注：‘NULL’ is defined in header ‘<stddef.h>’; did you forget to ‘#include <stddef.h>’?
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckPrototypeDefinition.c:2:1:
++#include <stddef.h>
+ 
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckPrototypeDefinition.c:15:10:
+   return NULL;
+          ^~~~
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckPrototypeDefinition.c:15:10: 附注：每个未声明的标识符在其出现的函数内只报告一次
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/CheckPrototypeDefinition.c:16:1: 警告：在有返回值的函数中，控制流程到达函数尾 [-Wreturn-type]
+ }
+ ^
+gmake[1]: *** [CMakeFiles/cmTC_7f3e4.dir/build.make:78：CMakeFiles/cmTC_7f3e4.dir/CheckPrototypeDefinition.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_7f3e4/fast] 错误 2
+
+
+
+#include <netdb.h>
+
+
+static void cmakeRequireSymbol(int dummy, ...) {
+  (void) dummy;
+}
+
+static void checkSymbol(void) {
+#ifndef gethostbyname_r
+  cmakeRequireSymbol(0, &gethostbyname_r);
+#endif
+}
+
+struct hostent *gethostbyname_r(const char *name, struct hostent *hp, char *buf, size_t buflen, int *herr) {
+  return NULL;
+}
+
+#ifdef __CLASSIC_C__
+int main() {
+  int ac;
+  char*av[];
+#else
+int main(int ac, char *av[]) {
+#endif
+  checkSymbol();
+  if (ac > 1000) {
+    return *av[0];
+  }
+  return 0;
+}
+
+
+Performing C SOURCE FILE Test EVENT__HAVE_DECL_KERN_ARND failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_6eb10/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_6eb10.dir/build.make CMakeFiles/cmTC_6eb10.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_6eb10.dir/src.c.o
+/usr/lib64/ccache/cc -DEVENT__HAVE_DECL_KERN_ARND -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_6eb10.dir/src.c.o -c /data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c:3:13: 警告：函数声明不是一个原型 [-Wstrict-prototypes]
+         int main() { (void)KERN_ARND; return 0; }
+             ^~~~
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c: 在函数‘main’中:
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c:3:28: 错误：‘KERN_ARND’ undeclared (first use in this function); did you mean ‘KERN_ACCT’?
+         int main() { (void)KERN_ARND; return 0; }
+                            ^~~~~~~~~
+                            KERN_ACCT
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c:3:28: 附注：每个未声明的标识符在其出现的函数内只报告一次
+gmake[1]: *** [CMakeFiles/cmTC_6eb10.dir/build.make:78：CMakeFiles/cmTC_6eb10.dir/src.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_6eb10/fast] 错误 2
+
+
+Source file was:
+
+          #include <sys/sysctl.h>
+        int main() { (void)KERN_ARND; return 0; }
+Determining size of SSIZE_T failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_004b9/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_004b9.dir/build.make CMakeFiles/cmTC_004b9.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_004b9.dir/EVENT__SIZEOF_SSIZE_T_UPPER.c.o
+/usr/lib64/ccache/cc -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_004b9.dir/EVENT__SIZEOF_SSIZE_T_UPPER.c.o -c /data/landun/workspace/build/CMakeFiles/CheckTypeSize/EVENT__SIZEOF_SSIZE_T_UPPER.c
+/data/landun/workspace/build/CMakeFiles/CheckTypeSize/EVENT__SIZEOF_SSIZE_T_UPPER.c:65:22: 错误：‘SSIZE_T’ undeclared here (not in a function); did you mean ‘SSIZE_MAX’?
+ #define SIZE (sizeof(SSIZE_T))
+                      ^~~~~~~
+/data/landun/workspace/build/CMakeFiles/CheckTypeSize/EVENT__SIZEOF_SSIZE_T_UPPER.c:67:12: 附注：in expansion of macro ‘SIZE’
+   ('0' + ((SIZE / 10000)%10)),
+            ^~~~
+gmake[1]: *** [CMakeFiles/cmTC_004b9.dir/build.make:78：CMakeFiles/cmTC_004b9.dir/EVENT__SIZEOF_SSIZE_T_UPPER.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_004b9/fast] 错误 2
+
+
+/data/landun/workspace/build/CMakeFiles/CheckTypeSize/EVENT__SIZEOF_SSIZE_T_UPPER.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+#include "fcntl.h"
+#include "inttypes.h"
+#include "memory.h"
+#include "signal.h"
+#include "stdarg.h"
+#include "stddef.h"
+#include "stdint.h"
+#include "stdlib.h"
+#include "string.h"
+#include "errno.h"
+#include "unistd.h"
+#include "time.h"
+#include "sys/types.h"
+#include "sys/stat.h"
+#include "sys/time.h"
+#include "sys/param.h"
+#include "netdb.h"
+#include "dlfcn.h"
+#include "arpa/inet.h"
+#include "poll.h"
+#include "sys/socket.h"
+#include "sys/random.h"
+#include "sys/un.h"
+#include "sys/epoll.h"
+#include "sys/eventfd.h"
+#include "sys/ioctl.h"
+#include "sys/mman.h"
+#include "sys/queue.h"
+#include "sys/select.h"
+#include "sys/sendfile.h"
+#include "sys/uio.h"
+#include "sys/wait.h"
+#include "sys/resource.h"
+#include "sys/timerfd.h"
+#include "netinet/in.h"
+#include "netinet/tcp.h"
+#include "ifaddrs.h"
+#include "stdio.h"
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(SSIZE_T))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Performing C SOURCE FILE Test EVENT__HAVE_STRUCT_SOCKADDR_IN6_SIN6_LEN failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_8dc69/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_8dc69.dir/build.make CMakeFiles/cmTC_8dc69.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_8dc69.dir/src.c.o
+/usr/lib64/ccache/cc -DEVENT__HAVE_STRUCT_SOCKADDR_IN6_SIN6_LEN -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_8dc69.dir/src.c.o -c /data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c:6:5: 警告：函数声明不是一个原型 [-Wstrict-prototypes]
+ int main()
+     ^~~~
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c: 在函数‘main’中:
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c:8:44: 错误：‘struct sockaddr_in6’ has no member named ‘sin6_len’; did you mean ‘sin6_port’?
+   (void)sizeof(((struct sockaddr_in6 *)0)->sin6_len);
+                                            ^~~~~~~~
+                                            sin6_port
+gmake[1]: *** [CMakeFiles/cmTC_8dc69.dir/build.make:78：CMakeFiles/cmTC_8dc69.dir/src.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_8dc69/fast] 错误 2
+
+
+Source file was:
+
+#include <netinet/in.h>
+#include <sys/socket.h>
+#include <netdb.h>
+
+int main()
+{
+  (void)sizeof(((struct sockaddr_in6 *)0)->sin6_len);
+  return 0;
+}
+
+Performing C SOURCE FILE Test EVENT__HAVE_STRUCT_SOCKADDR_IN_SIN_LEN failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_6c905/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_6c905.dir/build.make CMakeFiles/cmTC_6c905.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_6c905.dir/src.c.o
+/usr/lib64/ccache/cc -DEVENT__HAVE_STRUCT_SOCKADDR_IN_SIN_LEN -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_6c905.dir/src.c.o -c /data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c:6:5: 警告：函数声明不是一个原型 [-Wstrict-prototypes]
+ int main()
+     ^~~~
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c: 在函数‘main’中:
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c:8:42: 错误：‘struct sockaddr_in6’没有名为‘sin_len’的成员
+   (void)sizeof(((struct sockaddr_in6 *)0)->sin_len);
+                                          ^~
+gmake[1]: *** [CMakeFiles/cmTC_6c905.dir/build.make:78：CMakeFiles/cmTC_6c905.dir/src.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_6c905/fast] 错误 2
+
+
+Source file was:
+
+#include <netinet/in.h>
+#include <sys/socket.h>
+#include <netdb.h>
+
+int main()
+{
+  (void)sizeof(((struct sockaddr_in6 *)0)->sin_len);
+  return 0;
+}
+
+Performing C SOURCE FILE Test EVENT__HAVE_STRUCT_SOCKADDR_STORAGE___SS_FAMILY failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_4110e/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_4110e.dir/build.make CMakeFiles/cmTC_4110e.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_4110e.dir/src.c.o
+/usr/lib64/ccache/cc -DEVENT__HAVE_STRUCT_SOCKADDR_STORAGE___SS_FAMILY -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_4110e.dir/src.c.o -c /data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c:6:5: 警告：函数声明不是一个原型 [-Wstrict-prototypes]
+ int main()
+     ^~~~
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c: 在函数‘main’中:
+/data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c:8:48: 错误：‘struct sockaddr_storage’ has no member named ‘__ss_family’; did you mean ‘ss_family’?
+   (void)sizeof(((struct sockaddr_storage *)0)->__ss_family);
+                                                ^~~~~~~~~~~
+                                                ss_family
+gmake[1]: *** [CMakeFiles/cmTC_4110e.dir/build.make:78：CMakeFiles/cmTC_4110e.dir/src.c.o] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_4110e/fast] 错误 2
+
+
+Source file was:
+
+#include <netinet/in.h>
+#include <sys/socket.h>
+#include <netdb.h>
+
+int main()
+{
+  (void)sizeof(((struct sockaddr_storage *)0)->__ss_family);
+  return 0;
+}
+
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_b420d/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_b420d.dir/build.make CMakeFiles/cmTC_b420d.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_b420d.dir/src.c.o
+/usr/lib64/ccache/cc -DCMAKE_HAVE_LIBC_PTHREAD -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  -o CMakeFiles/cmTC_b420d.dir/src.c.o -c /data/landun/workspace/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_b420d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b420d.dir/link.txt --verbose=1
+/usr/lib64/ccache/cc  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings  CMakeFiles/cmTC_b420d.dir/src.c.o -o cmTC_b420d 
+/usr/bin/ld: CMakeFiles/cmTC_b420d.dir/src.c.o: in function `main':
+src.c:(.text+0x2d): undefined reference to `pthread_create'
+/usr/bin/ld: src.c:(.text+0x39): undefined reference to `pthread_detach'
+/usr/bin/ld: src.c:(.text+0x45): undefined reference to `pthread_cancel'
+/usr/bin/ld: src.c:(.text+0x56): undefined reference to `pthread_join'
+collect2: 错误：ld 返回 1
+gmake[1]: *** [CMakeFiles/cmTC_b420d.dir/build.make:99：cmTC_b420d] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_b420d/fast] 错误 2
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /data/landun/workspace/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_48a0d/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_48a0d.dir/build.make CMakeFiles/cmTC_48a0d.dir/build
+gmake[1]: 进入目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_48a0d.dir/CheckFunctionExists.c.o
+/usr/lib64/ccache/cc -D_GNU_SOURCE  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -DCHECK_FUNCTION_EXISTS=pthread_create -o CMakeFiles/cmTC_48a0d.dir/CheckFunctionExists.c.o -c /usr/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_48a0d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_48a0d.dir/link.txt --verbose=1
+/usr/lib64/ccache/cc  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -DCHECK_FUNCTION_EXISTS=pthread_create CMakeFiles/cmTC_48a0d.dir/CheckFunctionExists.c.o -o cmTC_48a0d  -lpthreads 
+/usr/bin/ld: 找不到 -lpthreads
+collect2: 错误：ld 返回 1
+gmake[1]: *** [CMakeFiles/cmTC_48a0d.dir/build.make:99：cmTC_48a0d] 错误 1
+gmake[1]: 离开目录“/data/landun/workspace/build/CMakeFiles/CMakeTmp”
+gmake: *** [Makefile:127：cmTC_48a0d/fast] 错误 2
+
+
+

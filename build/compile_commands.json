@@ -1,0 +1,1232 @@
+[
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -x c++-header -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/cmake_pch.hxx.gch -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_38_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_38_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_38_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_37_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_37_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_37_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_36_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_36_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_36_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_35_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_35_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_35_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_34_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_34_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_34_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_33_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_33_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_33_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_32_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_32_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_32_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_31_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_31_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_31_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_30_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_30_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_30_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_29_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_29_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_29_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_28_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_28_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_28_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_27_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_27_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_27_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_26_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_26_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_26_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_25_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_25_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_25_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_24_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_24_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_24_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_23_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_23_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_23_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_22_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_22_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_22_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_21_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_21_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_21_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_20_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_20_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_20_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_19_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_19_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_19_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_18_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_18_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_18_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_17_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_17_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_17_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_16_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_16_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_16_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_15_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_15_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_15_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_14_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_14_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_14_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_13_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_13_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_13_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_12_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_12_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_12_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_11_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_11_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_11_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_10_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_10_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_10_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_9_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_9_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_9_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_8_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_8_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_8_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_7_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_7_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_7_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_6_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_6_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_6_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_5_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_5_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_5_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_4_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_4_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_4_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_3_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_3_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_3_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_2_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_2_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_2_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_1_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_1_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_1_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/Unity/unity_0_cxx.cxx.o -c /data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_0_cxx.cxx",
+  "file": "/data/landun/workspace/build/CMakeFiles/Cuberite.dir/Unity/unity_0_cxx.cxx"
+},
+{
+  "directory": "/data/landun/workspace/build",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/build/include -I/data/landun/workspace/src/. -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/fmt/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -I/data/landun/workspace/lib/libdeflate -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -I/data/landun/workspace/lib/SQLiteCpp/include -isystem /data/landun/workspace/lib/mbedtls/include -isystem /data/landun/workspace/lib/TCLAP/include -isystem /data/landun/workspace/lib -O3 -DNDEBUG -flto -fno-fat-lto-objects -march=native -fsigned-char -ffast-math -Wall -Wextra -Wno-unused-parameter -pthread -std=c++17 -w -Winvalid-pch -include /data/landun/workspace/build/CMakeFiles/Cuberite.dir/cmake_pch.hxx -o CMakeFiles/Cuberite.dir/src/Bindings/Bindings.cpp.o -c /data/landun/workspace/src/Bindings/Bindings.cpp",
+  "file": "/data/landun/workspace/src/Bindings/Bindings.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/expat",
+  "command": "/usr/lib64/ccache/cc -DXML_STATIC  -O3 -DNDEBUG -march=native -o CMakeFiles/expat.dir/xmlparse.c.o -c /data/landun/workspace/lib/expat/xmlparse.c",
+  "file": "/data/landun/workspace/lib/expat/xmlparse.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/expat",
+  "command": "/usr/lib64/ccache/cc -DXML_STATIC  -O3 -DNDEBUG -march=native -o CMakeFiles/expat.dir/xmlrole.c.o -c /data/landun/workspace/lib/expat/xmlrole.c",
+  "file": "/data/landun/workspace/lib/expat/xmlrole.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/expat",
+  "command": "/usr/lib64/ccache/cc -DXML_STATIC  -O3 -DNDEBUG -march=native -o CMakeFiles/expat.dir/xmltok.c.o -c /data/landun/workspace/lib/expat/xmltok.c",
+  "file": "/data/landun/workspace/lib/expat/xmltok.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/expat",
+  "command": "/usr/lib64/ccache/cc -DXML_STATIC  -O3 -DNDEBUG -march=native -o CMakeFiles/expat.dir/xmltok_impl.c.o -c /data/landun/workspace/lib/expat/xmltok_impl.c",
+  "file": "/data/landun/workspace/lib/expat/xmltok_impl.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/expat",
+  "command": "/usr/lib64/ccache/cc -DXML_STATIC  -O3 -DNDEBUG -march=native -o CMakeFiles/expat.dir/xmltok_ns.c.o -c /data/landun/workspace/lib/expat/xmltok_ns.c",
+  "file": "/data/landun/workspace/lib/expat/xmltok_ns.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/fmt",
+  "command": "/usr/lib64/ccache/c++  -I/data/landun/workspace/lib/fmt/include -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/fmt.dir/src/format.cc.o -c /data/landun/workspace/lib/fmt/src/format.cc",
+  "file": "/data/landun/workspace/lib/fmt/src/format.cc"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/fmt",
+  "command": "/usr/lib64/ccache/c++  -I/data/landun/workspace/lib/fmt/include -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/fmt.dir/src/os.cc.o -c /data/landun/workspace/lib/fmt/src/os.cc",
+  "file": "/data/landun/workspace/lib/fmt/src/os.cc"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/jsoncpp/src/lib_json",
+  "command": "/usr/lib64/ccache/c++  -I/data/landun/workspace/lib/jsoncpp/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -O3 -DNDEBUG -march=native -Wall -Wconversion -Wshadow -Wextra -Wpedantic -Werror=strict-aliasing -std=c++11 -o CMakeFiles/jsoncpp_static.dir/json_reader.cpp.o -c /data/landun/workspace/lib/jsoncpp/src/lib_json/json_reader.cpp",
+  "file": "/data/landun/workspace/lib/jsoncpp/src/lib_json/json_reader.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/jsoncpp/src/lib_json",
+  "command": "/usr/lib64/ccache/c++  -I/data/landun/workspace/lib/jsoncpp/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -O3 -DNDEBUG -march=native -Wall -Wconversion -Wshadow -Wextra -Wpedantic -Werror=strict-aliasing -std=c++11 -o CMakeFiles/jsoncpp_static.dir/json_value.cpp.o -c /data/landun/workspace/lib/jsoncpp/src/lib_json/json_value.cpp",
+  "file": "/data/landun/workspace/lib/jsoncpp/src/lib_json/json_value.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/jsoncpp/src/lib_json",
+  "command": "/usr/lib64/ccache/c++  -I/data/landun/workspace/lib/jsoncpp/include -I/data/landun/workspace/lib/jsoncpp/src/lib_json/../../include -I/data/landun/workspace/build/lib/jsoncpp/include/json -O3 -DNDEBUG -march=native -Wall -Wconversion -Wshadow -Wextra -Wpedantic -Werror=strict-aliasing -std=c++11 -o CMakeFiles/jsoncpp_static.dir/json_writer.cpp.o -c /data/landun/workspace/lib/jsoncpp/src/lib_json/json_writer.cpp",
+  "file": "/data/landun/workspace/lib/jsoncpp/src/lib_json/json_writer.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libdeflate",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/libdeflate -O3 -DNDEBUG -march=native -o CMakeFiles/libdeflate.dir/lib/adler32.c.o -c /data/landun/workspace/lib/libdeflate/lib/adler32.c",
+  "file": "/data/landun/workspace/lib/libdeflate/lib/adler32.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libdeflate",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/libdeflate -O3 -DNDEBUG -march=native -o CMakeFiles/libdeflate.dir/lib/arm/cpu_features.c.o -c /data/landun/workspace/lib/libdeflate/lib/arm/cpu_features.c",
+  "file": "/data/landun/workspace/lib/libdeflate/lib/arm/cpu_features.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libdeflate",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/libdeflate -O3 -DNDEBUG -march=native -o CMakeFiles/libdeflate.dir/lib/crc32.c.o -c /data/landun/workspace/lib/libdeflate/lib/crc32.c",
+  "file": "/data/landun/workspace/lib/libdeflate/lib/crc32.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libdeflate",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/libdeflate -O3 -DNDEBUG -march=native -o CMakeFiles/libdeflate.dir/lib/deflate_compress.c.o -c /data/landun/workspace/lib/libdeflate/lib/deflate_compress.c",
+  "file": "/data/landun/workspace/lib/libdeflate/lib/deflate_compress.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libdeflate",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/libdeflate -O3 -DNDEBUG -march=native -o CMakeFiles/libdeflate.dir/lib/deflate_decompress.c.o -c /data/landun/workspace/lib/libdeflate/lib/deflate_decompress.c",
+  "file": "/data/landun/workspace/lib/libdeflate/lib/deflate_decompress.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libdeflate",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/libdeflate -O3 -DNDEBUG -march=native -o CMakeFiles/libdeflate.dir/lib/gzip_compress.c.o -c /data/landun/workspace/lib/libdeflate/lib/gzip_compress.c",
+  "file": "/data/landun/workspace/lib/libdeflate/lib/gzip_compress.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libdeflate",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/libdeflate -O3 -DNDEBUG -march=native -o CMakeFiles/libdeflate.dir/lib/gzip_decompress.c.o -c /data/landun/workspace/lib/libdeflate/lib/gzip_decompress.c",
+  "file": "/data/landun/workspace/lib/libdeflate/lib/gzip_decompress.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libdeflate",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/libdeflate -O3 -DNDEBUG -march=native -o CMakeFiles/libdeflate.dir/lib/utils.c.o -c /data/landun/workspace/lib/libdeflate/lib/utils.c",
+  "file": "/data/landun/workspace/lib/libdeflate/lib/utils.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libdeflate",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/libdeflate -O3 -DNDEBUG -march=native -o CMakeFiles/libdeflate.dir/lib/x86/cpu_features.c.o -c /data/landun/workspace/lib/libdeflate/lib/x86/cpu_features.c",
+  "file": "/data/landun/workspace/lib/libdeflate/lib/x86/cpu_features.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libdeflate",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/libdeflate -O3 -DNDEBUG -march=native -o CMakeFiles/libdeflate.dir/lib/zlib_compress.c.o -c /data/landun/workspace/lib/libdeflate/lib/zlib_compress.c",
+  "file": "/data/landun/workspace/lib/libdeflate/lib/zlib_compress.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libdeflate",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/libdeflate -O3 -DNDEBUG -march=native -o CMakeFiles/libdeflate.dir/lib/zlib_decompress.c.o -c /data/landun/workspace/lib/libdeflate/lib/zlib_decompress.c",
+  "file": "/data/landun/workspace/lib/libdeflate/lib/zlib_decompress.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/buffer.c.o -c /data/landun/workspace/lib/libevent/buffer.c",
+  "file": "/data/landun/workspace/lib/libevent/buffer.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/bufferevent.c.o -c /data/landun/workspace/lib/libevent/bufferevent.c",
+  "file": "/data/landun/workspace/lib/libevent/bufferevent.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/bufferevent_filter.c.o -c /data/landun/workspace/lib/libevent/bufferevent_filter.c",
+  "file": "/data/landun/workspace/lib/libevent/bufferevent_filter.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/bufferevent_pair.c.o -c /data/landun/workspace/lib/libevent/bufferevent_pair.c",
+  "file": "/data/landun/workspace/lib/libevent/bufferevent_pair.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/bufferevent_ratelim.c.o -c /data/landun/workspace/lib/libevent/bufferevent_ratelim.c",
+  "file": "/data/landun/workspace/lib/libevent/bufferevent_ratelim.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/bufferevent_sock.c.o -c /data/landun/workspace/lib/libevent/bufferevent_sock.c",
+  "file": "/data/landun/workspace/lib/libevent/bufferevent_sock.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/event.c.o -c /data/landun/workspace/lib/libevent/event.c",
+  "file": "/data/landun/workspace/lib/libevent/event.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/evmap.c.o -c /data/landun/workspace/lib/libevent/evmap.c",
+  "file": "/data/landun/workspace/lib/libevent/evmap.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/evthread.c.o -c /data/landun/workspace/lib/libevent/evthread.c",
+  "file": "/data/landun/workspace/lib/libevent/evthread.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/evutil.c.o -c /data/landun/workspace/lib/libevent/evutil.c",
+  "file": "/data/landun/workspace/lib/libevent/evutil.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/evutil_rand.c.o -c /data/landun/workspace/lib/libevent/evutil_rand.c",
+  "file": "/data/landun/workspace/lib/libevent/evutil_rand.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/evutil_time.c.o -c /data/landun/workspace/lib/libevent/evutil_time.c",
+  "file": "/data/landun/workspace/lib/libevent/evutil_time.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/listener.c.o -c /data/landun/workspace/lib/libevent/listener.c",
+  "file": "/data/landun/workspace/lib/libevent/listener.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/log.c.o -c /data/landun/workspace/lib/libevent/log.c",
+  "file": "/data/landun/workspace/lib/libevent/log.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/signal.c.o -c /data/landun/workspace/lib/libevent/signal.c",
+  "file": "/data/landun/workspace/lib/libevent/signal.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/strlcpy.c.o -c /data/landun/workspace/lib/libevent/strlcpy.c",
+  "file": "/data/landun/workspace/lib/libevent/strlcpy.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/select.c.o -c /data/landun/workspace/lib/libevent/select.c",
+  "file": "/data/landun/workspace/lib/libevent/select.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/poll.c.o -c /data/landun/workspace/lib/libevent/poll.c",
+  "file": "/data/landun/workspace/lib/libevent/poll.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_core_static.dir/epoll.c.o -c /data/landun/workspace/lib/libevent/epoll.c",
+  "file": "/data/landun/workspace/lib/libevent/epoll.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_extra_static.dir/event_tagging.c.o -c /data/landun/workspace/lib/libevent/event_tagging.c",
+  "file": "/data/landun/workspace/lib/libevent/event_tagging.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_extra_static.dir/http.c.o -c /data/landun/workspace/lib/libevent/http.c",
+  "file": "/data/landun/workspace/lib/libevent/http.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_extra_static.dir/evdns.c.o -c /data/landun/workspace/lib/libevent/evdns.c",
+  "file": "/data/landun/workspace/lib/libevent/evdns.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_extra_static.dir/evrpc.c.o -c /data/landun/workspace/lib/libevent/evrpc.c",
+  "file": "/data/landun/workspace/lib/libevent/evrpc.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_pthreads_static.dir/evthread_pthread.c.o -c /data/landun/workspace/lib/libevent/evthread_pthread.c",
+  "file": "/data/landun/workspace/lib/libevent/evthread_pthread.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/buffer.c.o -c /data/landun/workspace/lib/libevent/buffer.c",
+  "file": "/data/landun/workspace/lib/libevent/buffer.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/bufferevent.c.o -c /data/landun/workspace/lib/libevent/bufferevent.c",
+  "file": "/data/landun/workspace/lib/libevent/bufferevent.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/bufferevent_filter.c.o -c /data/landun/workspace/lib/libevent/bufferevent_filter.c",
+  "file": "/data/landun/workspace/lib/libevent/bufferevent_filter.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/bufferevent_pair.c.o -c /data/landun/workspace/lib/libevent/bufferevent_pair.c",
+  "file": "/data/landun/workspace/lib/libevent/bufferevent_pair.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/bufferevent_ratelim.c.o -c /data/landun/workspace/lib/libevent/bufferevent_ratelim.c",
+  "file": "/data/landun/workspace/lib/libevent/bufferevent_ratelim.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/bufferevent_sock.c.o -c /data/landun/workspace/lib/libevent/bufferevent_sock.c",
+  "file": "/data/landun/workspace/lib/libevent/bufferevent_sock.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/event.c.o -c /data/landun/workspace/lib/libevent/event.c",
+  "file": "/data/landun/workspace/lib/libevent/event.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/evmap.c.o -c /data/landun/workspace/lib/libevent/evmap.c",
+  "file": "/data/landun/workspace/lib/libevent/evmap.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/evthread.c.o -c /data/landun/workspace/lib/libevent/evthread.c",
+  "file": "/data/landun/workspace/lib/libevent/evthread.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/evutil.c.o -c /data/landun/workspace/lib/libevent/evutil.c",
+  "file": "/data/landun/workspace/lib/libevent/evutil.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/evutil_rand.c.o -c /data/landun/workspace/lib/libevent/evutil_rand.c",
+  "file": "/data/landun/workspace/lib/libevent/evutil_rand.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/evutil_time.c.o -c /data/landun/workspace/lib/libevent/evutil_time.c",
+  "file": "/data/landun/workspace/lib/libevent/evutil_time.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/listener.c.o -c /data/landun/workspace/lib/libevent/listener.c",
+  "file": "/data/landun/workspace/lib/libevent/listener.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/log.c.o -c /data/landun/workspace/lib/libevent/log.c",
+  "file": "/data/landun/workspace/lib/libevent/log.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/signal.c.o -c /data/landun/workspace/lib/libevent/signal.c",
+  "file": "/data/landun/workspace/lib/libevent/signal.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/strlcpy.c.o -c /data/landun/workspace/lib/libevent/strlcpy.c",
+  "file": "/data/landun/workspace/lib/libevent/strlcpy.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/select.c.o -c /data/landun/workspace/lib/libevent/select.c",
+  "file": "/data/landun/workspace/lib/libevent/select.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/poll.c.o -c /data/landun/workspace/lib/libevent/poll.c",
+  "file": "/data/landun/workspace/lib/libevent/poll.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/epoll.c.o -c /data/landun/workspace/lib/libevent/epoll.c",
+  "file": "/data/landun/workspace/lib/libevent/epoll.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/event_tagging.c.o -c /data/landun/workspace/lib/libevent/event_tagging.c",
+  "file": "/data/landun/workspace/lib/libevent/event_tagging.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/http.c.o -c /data/landun/workspace/lib/libevent/http.c",
+  "file": "/data/landun/workspace/lib/libevent/http.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/evdns.c.o -c /data/landun/workspace/lib/libevent/evdns.c",
+  "file": "/data/landun/workspace/lib/libevent/evdns.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/libevent",
+  "command": "/usr/lib64/ccache/cc -DHAVE_CONFIG_H -D_GNU_SOURCE=1 -I/data/landun/workspace/build/lib/libevent/include -I/data/landun/workspace/lib/libevent/include -I/data/landun/workspace/lib/libevent/compat -I/data/landun/workspace/lib/libevent  -Wall -Wextra -Wno-unused-parameter -Wstrict-aliasing -Wstrict-prototypes -fno-strict-aliasing -Wmissing-prototypes -Winit-self -Wmissing-field-initializers -Wdeclaration-after-statement -Waddress -Wnormalized=id -Woverride-init -Wlogical-op -Wwrite-strings -O3 -DNDEBUG -march=native -o CMakeFiles/event_static.dir/evrpc.c.o -c /data/landun/workspace/lib/libevent/evrpc.c",
+  "file": "/data/landun/workspace/lib/libevent/evrpc.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/lapi.cpp.o -c /data/landun/workspace/lib/lua/src/lapi.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lapi.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/lauxlib.cpp.o -c /data/landun/workspace/lib/lua/src/lauxlib.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lauxlib.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/lbaselib.cpp.o -c /data/landun/workspace/lib/lua/src/lbaselib.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lbaselib.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/lcode.cpp.o -c /data/landun/workspace/lib/lua/src/lcode.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lcode.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/ldblib.cpp.o -c /data/landun/workspace/lib/lua/src/ldblib.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/ldblib.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/ldebug.cpp.o -c /data/landun/workspace/lib/lua/src/ldebug.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/ldebug.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/ldo.cpp.o -c /data/landun/workspace/lib/lua/src/ldo.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/ldo.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/ldump.cpp.o -c /data/landun/workspace/lib/lua/src/ldump.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/ldump.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/lfunc.cpp.o -c /data/landun/workspace/lib/lua/src/lfunc.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lfunc.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/lgc.cpp.o -c /data/landun/workspace/lib/lua/src/lgc.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lgc.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/linit.cpp.o -c /data/landun/workspace/lib/lua/src/linit.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/linit.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/liolib.cpp.o -c /data/landun/workspace/lib/lua/src/liolib.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/liolib.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/llex.cpp.o -c /data/landun/workspace/lib/lua/src/llex.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/llex.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/lmathlib.cpp.o -c /data/landun/workspace/lib/lua/src/lmathlib.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lmathlib.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/lmem.cpp.o -c /data/landun/workspace/lib/lua/src/lmem.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lmem.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/loadlib.cpp.o -c /data/landun/workspace/lib/lua/src/loadlib.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/loadlib.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/lobject.cpp.o -c /data/landun/workspace/lib/lua/src/lobject.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lobject.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/lopcodes.cpp.o -c /data/landun/workspace/lib/lua/src/lopcodes.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lopcodes.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/loslib.cpp.o -c /data/landun/workspace/lib/lua/src/loslib.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/loslib.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/lparser.cpp.o -c /data/landun/workspace/lib/lua/src/lparser.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lparser.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/lstate.cpp.o -c /data/landun/workspace/lib/lua/src/lstate.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lstate.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/lstring.cpp.o -c /data/landun/workspace/lib/lua/src/lstring.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lstring.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/lstrlib.cpp.o -c /data/landun/workspace/lib/lua/src/lstrlib.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lstrlib.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/ltable.cpp.o -c /data/landun/workspace/lib/lua/src/ltable.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/ltable.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/ltablib.cpp.o -c /data/landun/workspace/lib/lua/src/ltablib.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/ltablib.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/ltm.cpp.o -c /data/landun/workspace/lib/lua/src/ltm.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/ltm.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/lundump.cpp.o -c /data/landun/workspace/lib/lua/src/lundump.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lundump.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/lvm.cpp.o -c /data/landun/workspace/lib/lua/src/lvm.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lvm.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/lzio.cpp.o -c /data/landun/workspace/lib/lua/src/lzio.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lzio.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_APICHECK -DLUA_USE_DLOPEN  -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lualib.dir/src/print.cpp.o -c /data/landun/workspace/lib/lua/src/print.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/print.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/lua",
+  "command": "/usr/lib64/ccache/c++ -DLUA_USE_DLOPEN -I/data/landun/workspace/lib/lua/src -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/lua.dir/src/lua.cpp.o -c /data/landun/workspace/lib/lua/src/lua.cpp",
+  "file": "/data/landun/workspace/lib/lua/src/lua.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/luaexpat",
+  "command": "/usr/lib64/ccache/c++ -DXML_STATIC -I/data/landun/workspace/lib/luaexpat/../expat -I/data/landun/workspace/lib/luaexpat/../lua/src -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/luaexpat.dir/lxplib.cpp.o -c /data/landun/workspace/lib/luaexpat/lxplib.cpp",
+  "file": "/data/landun/workspace/lib/luaexpat/lxplib.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/aes.c.o -c /data/landun/workspace/lib/mbedtls/library/aes.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/aes.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/aesni.c.o -c /data/landun/workspace/lib/mbedtls/library/aesni.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/aesni.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/aria.c.o -c /data/landun/workspace/lib/mbedtls/library/aria.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/aria.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/asn1parse.c.o -c /data/landun/workspace/lib/mbedtls/library/asn1parse.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/asn1parse.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/asn1write.c.o -c /data/landun/workspace/lib/mbedtls/library/asn1write.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/asn1write.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/base64.c.o -c /data/landun/workspace/lib/mbedtls/library/base64.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/base64.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/bignum.c.o -c /data/landun/workspace/lib/mbedtls/library/bignum.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/bignum.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/camellia.c.o -c /data/landun/workspace/lib/mbedtls/library/camellia.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/camellia.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/ccm.c.o -c /data/landun/workspace/lib/mbedtls/library/ccm.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ccm.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/chacha20.c.o -c /data/landun/workspace/lib/mbedtls/library/chacha20.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/chacha20.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/chachapoly.c.o -c /data/landun/workspace/lib/mbedtls/library/chachapoly.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/chachapoly.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/cipher.c.o -c /data/landun/workspace/lib/mbedtls/library/cipher.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/cipher.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/cipher_wrap.c.o -c /data/landun/workspace/lib/mbedtls/library/cipher_wrap.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/cipher_wrap.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/constant_time.c.o -c /data/landun/workspace/lib/mbedtls/library/constant_time.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/constant_time.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/cmac.c.o -c /data/landun/workspace/lib/mbedtls/library/cmac.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/cmac.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/ctr_drbg.c.o -c /data/landun/workspace/lib/mbedtls/library/ctr_drbg.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ctr_drbg.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/des.c.o -c /data/landun/workspace/lib/mbedtls/library/des.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/des.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/dhm.c.o -c /data/landun/workspace/lib/mbedtls/library/dhm.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/dhm.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/ecdh.c.o -c /data/landun/workspace/lib/mbedtls/library/ecdh.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ecdh.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/ecdsa.c.o -c /data/landun/workspace/lib/mbedtls/library/ecdsa.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ecdsa.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/ecjpake.c.o -c /data/landun/workspace/lib/mbedtls/library/ecjpake.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ecjpake.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/ecp.c.o -c /data/landun/workspace/lib/mbedtls/library/ecp.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ecp.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/ecp_curves.c.o -c /data/landun/workspace/lib/mbedtls/library/ecp_curves.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ecp_curves.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/entropy.c.o -c /data/landun/workspace/lib/mbedtls/library/entropy.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/entropy.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/entropy_poll.c.o -c /data/landun/workspace/lib/mbedtls/library/entropy_poll.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/entropy_poll.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/error.c.o -c /data/landun/workspace/build/lib/mbedtls/library/error.c",
+  "file": "/data/landun/workspace/build/lib/mbedtls/library/error.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/gcm.c.o -c /data/landun/workspace/lib/mbedtls/library/gcm.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/gcm.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/hkdf.c.o -c /data/landun/workspace/lib/mbedtls/library/hkdf.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/hkdf.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/hmac_drbg.c.o -c /data/landun/workspace/lib/mbedtls/library/hmac_drbg.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/hmac_drbg.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/md.c.o -c /data/landun/workspace/lib/mbedtls/library/md.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/md.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/md5.c.o -c /data/landun/workspace/lib/mbedtls/library/md5.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/md5.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/memory_buffer_alloc.c.o -c /data/landun/workspace/lib/mbedtls/library/memory_buffer_alloc.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/memory_buffer_alloc.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/mps_reader.c.o -c /data/landun/workspace/lib/mbedtls/library/mps_reader.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/mps_reader.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/mps_trace.c.o -c /data/landun/workspace/lib/mbedtls/library/mps_trace.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/mps_trace.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/nist_kw.c.o -c /data/landun/workspace/lib/mbedtls/library/nist_kw.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/nist_kw.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/oid.c.o -c /data/landun/workspace/lib/mbedtls/library/oid.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/oid.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/padlock.c.o -c /data/landun/workspace/lib/mbedtls/library/padlock.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/padlock.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/pem.c.o -c /data/landun/workspace/lib/mbedtls/library/pem.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/pem.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/pk.c.o -c /data/landun/workspace/lib/mbedtls/library/pk.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/pk.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/pk_wrap.c.o -c /data/landun/workspace/lib/mbedtls/library/pk_wrap.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/pk_wrap.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/pkcs12.c.o -c /data/landun/workspace/lib/mbedtls/library/pkcs12.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/pkcs12.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/pkcs5.c.o -c /data/landun/workspace/lib/mbedtls/library/pkcs5.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/pkcs5.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/pkparse.c.o -c /data/landun/workspace/lib/mbedtls/library/pkparse.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/pkparse.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/pkwrite.c.o -c /data/landun/workspace/lib/mbedtls/library/pkwrite.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/pkwrite.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/platform.c.o -c /data/landun/workspace/lib/mbedtls/library/platform.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/platform.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/platform_util.c.o -c /data/landun/workspace/lib/mbedtls/library/platform_util.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/platform_util.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/poly1305.c.o -c /data/landun/workspace/lib/mbedtls/library/poly1305.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/poly1305.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/psa_crypto.c.o -c /data/landun/workspace/lib/mbedtls/library/psa_crypto.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/psa_crypto.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/psa_crypto_aead.c.o -c /data/landun/workspace/lib/mbedtls/library/psa_crypto_aead.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/psa_crypto_aead.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/psa_crypto_cipher.c.o -c /data/landun/workspace/lib/mbedtls/library/psa_crypto_cipher.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/psa_crypto_cipher.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/psa_crypto_client.c.o -c /data/landun/workspace/lib/mbedtls/library/psa_crypto_client.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/psa_crypto_client.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/psa_crypto_driver_wrappers.c.o -c /data/landun/workspace/lib/mbedtls/library/psa_crypto_driver_wrappers.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/psa_crypto_driver_wrappers.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/psa_crypto_ecp.c.o -c /data/landun/workspace/lib/mbedtls/library/psa_crypto_ecp.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/psa_crypto_ecp.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/psa_crypto_hash.c.o -c /data/landun/workspace/lib/mbedtls/library/psa_crypto_hash.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/psa_crypto_hash.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/psa_crypto_mac.c.o -c /data/landun/workspace/lib/mbedtls/library/psa_crypto_mac.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/psa_crypto_mac.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/psa_crypto_rsa.c.o -c /data/landun/workspace/lib/mbedtls/library/psa_crypto_rsa.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/psa_crypto_rsa.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/psa_crypto_se.c.o -c /data/landun/workspace/lib/mbedtls/library/psa_crypto_se.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/psa_crypto_se.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/psa_crypto_slot_management.c.o -c /data/landun/workspace/lib/mbedtls/library/psa_crypto_slot_management.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/psa_crypto_slot_management.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/psa_crypto_storage.c.o -c /data/landun/workspace/lib/mbedtls/library/psa_crypto_storage.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/psa_crypto_storage.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/psa_its_file.c.o -c /data/landun/workspace/lib/mbedtls/library/psa_its_file.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/psa_its_file.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/ripemd160.c.o -c /data/landun/workspace/lib/mbedtls/library/ripemd160.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ripemd160.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/rsa.c.o -c /data/landun/workspace/lib/mbedtls/library/rsa.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/rsa.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/rsa_alt_helpers.c.o -c /data/landun/workspace/lib/mbedtls/library/rsa_alt_helpers.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/rsa_alt_helpers.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/sha1.c.o -c /data/landun/workspace/lib/mbedtls/library/sha1.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/sha1.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/sha256.c.o -c /data/landun/workspace/lib/mbedtls/library/sha256.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/sha256.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/sha512.c.o -c /data/landun/workspace/lib/mbedtls/library/sha512.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/sha512.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/ssl_debug_helpers_generated.c.o -c /data/landun/workspace/build/lib/mbedtls/library/ssl_debug_helpers_generated.c",
+  "file": "/data/landun/workspace/build/lib/mbedtls/library/ssl_debug_helpers_generated.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/threading.c.o -c /data/landun/workspace/lib/mbedtls/library/threading.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/threading.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/timing.c.o -c /data/landun/workspace/lib/mbedtls/library/timing.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/timing.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/version.c.o -c /data/landun/workspace/lib/mbedtls/library/version.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/version.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedcrypto.dir/version_features.c.o -c /data/landun/workspace/build/lib/mbedtls/library/version_features.c",
+  "file": "/data/landun/workspace/build/lib/mbedtls/library/version_features.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedx509.dir/x509.c.o -c /data/landun/workspace/lib/mbedtls/library/x509.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/x509.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedx509.dir/x509_create.c.o -c /data/landun/workspace/lib/mbedtls/library/x509_create.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/x509_create.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedx509.dir/x509_crl.c.o -c /data/landun/workspace/lib/mbedtls/library/x509_crl.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/x509_crl.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedx509.dir/x509_crt.c.o -c /data/landun/workspace/lib/mbedtls/library/x509_crt.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/x509_crt.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedx509.dir/x509_csr.c.o -c /data/landun/workspace/lib/mbedtls/library/x509_csr.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/x509_csr.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedx509.dir/x509write_crt.c.o -c /data/landun/workspace/lib/mbedtls/library/x509write_crt.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/x509write_crt.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedx509.dir/x509write_csr.c.o -c /data/landun/workspace/lib/mbedtls/library/x509write_csr.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/x509write_csr.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedtls.dir/debug.c.o -c /data/landun/workspace/lib/mbedtls/library/debug.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/debug.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedtls.dir/net_sockets.c.o -c /data/landun/workspace/lib/mbedtls/library/net_sockets.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/net_sockets.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedtls.dir/ssl_cache.c.o -c /data/landun/workspace/lib/mbedtls/library/ssl_cache.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ssl_cache.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.o -c /data/landun/workspace/lib/mbedtls/library/ssl_ciphersuites.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ssl_ciphersuites.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedtls.dir/ssl_cli.c.o -c /data/landun/workspace/lib/mbedtls/library/ssl_cli.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ssl_cli.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedtls.dir/ssl_cookie.c.o -c /data/landun/workspace/lib/mbedtls/library/ssl_cookie.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ssl_cookie.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedtls.dir/ssl_msg.c.o -c /data/landun/workspace/lib/mbedtls/library/ssl_msg.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ssl_msg.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedtls.dir/ssl_srv.c.o -c /data/landun/workspace/lib/mbedtls/library/ssl_srv.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ssl_srv.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedtls.dir/ssl_ticket.c.o -c /data/landun/workspace/lib/mbedtls/library/ssl_ticket.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ssl_ticket.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedtls.dir/ssl_tls.c.o -c /data/landun/workspace/lib/mbedtls/library/ssl_tls.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ssl_tls.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.o -c /data/landun/workspace/lib/mbedtls/library/ssl_tls13_keys.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ssl_tls13_keys.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedtls.dir/ssl_tls13_server.c.o -c /data/landun/workspace/lib/mbedtls/library/ssl_tls13_server.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ssl_tls13_server.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedtls.dir/ssl_tls13_client.c.o -c /data/landun/workspace/lib/mbedtls/library/ssl_tls13_client.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ssl_tls13_client.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/mbedtls/library",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/mbedtls/include -I/data/landun/workspace/lib/mbedtls/library  -Wall -Wextra -Wwrite-strings -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -Werror -Wmissing-declarations -Wmissing-prototypes -O2 -march=native -o CMakeFiles/mbedtls.dir/ssl_tls13_generic.c.o -c /data/landun/workspace/lib/mbedtls/library/ssl_tls13_generic.c",
+  "file": "/data/landun/workspace/lib/mbedtls/library/ssl_tls13_generic.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/SQLiteCpp",
+  "command": "/usr/lib64/ccache/c++  -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/SQLiteCpp/include  -Wall -Wextra -Wpedantic -Wswitch-enum -Wshadow -Wno-long-long -O3 -DNDEBUG -fPIC -march=native -pthread -std=c++17 -o CMakeFiles/SQLiteCpp.dir/src/Backup.cpp.o -c /data/landun/workspace/lib/SQLiteCpp/src/Backup.cpp",
+  "file": "/data/landun/workspace/lib/SQLiteCpp/src/Backup.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/SQLiteCpp",
+  "command": "/usr/lib64/ccache/c++  -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/SQLiteCpp/include  -Wall -Wextra -Wpedantic -Wswitch-enum -Wshadow -Wno-long-long -O3 -DNDEBUG -fPIC -march=native -pthread -std=c++17 -o CMakeFiles/SQLiteCpp.dir/src/Column.cpp.o -c /data/landun/workspace/lib/SQLiteCpp/src/Column.cpp",
+  "file": "/data/landun/workspace/lib/SQLiteCpp/src/Column.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/SQLiteCpp",
+  "command": "/usr/lib64/ccache/c++  -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/SQLiteCpp/include  -Wall -Wextra -Wpedantic -Wswitch-enum -Wshadow -Wno-long-long -O3 -DNDEBUG -fPIC -march=native -pthread -std=c++17 -o CMakeFiles/SQLiteCpp.dir/src/Database.cpp.o -c /data/landun/workspace/lib/SQLiteCpp/src/Database.cpp",
+  "file": "/data/landun/workspace/lib/SQLiteCpp/src/Database.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/SQLiteCpp",
+  "command": "/usr/lib64/ccache/c++  -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/SQLiteCpp/include  -Wall -Wextra -Wpedantic -Wswitch-enum -Wshadow -Wno-long-long -O3 -DNDEBUG -fPIC -march=native -pthread -std=c++17 -o CMakeFiles/SQLiteCpp.dir/src/Exception.cpp.o -c /data/landun/workspace/lib/SQLiteCpp/src/Exception.cpp",
+  "file": "/data/landun/workspace/lib/SQLiteCpp/src/Exception.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/SQLiteCpp",
+  "command": "/usr/lib64/ccache/c++  -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/SQLiteCpp/include  -Wall -Wextra -Wpedantic -Wswitch-enum -Wshadow -Wno-long-long -O3 -DNDEBUG -fPIC -march=native -pthread -std=c++17 -o CMakeFiles/SQLiteCpp.dir/src/Statement.cpp.o -c /data/landun/workspace/lib/SQLiteCpp/src/Statement.cpp",
+  "file": "/data/landun/workspace/lib/SQLiteCpp/src/Statement.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/SQLiteCpp",
+  "command": "/usr/lib64/ccache/c++  -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/SQLiteCpp/include  -Wall -Wextra -Wpedantic -Wswitch-enum -Wshadow -Wno-long-long -O3 -DNDEBUG -fPIC -march=native -pthread -std=c++17 -o CMakeFiles/SQLiteCpp.dir/src/Transaction.cpp.o -c /data/landun/workspace/lib/SQLiteCpp/src/Transaction.cpp",
+  "file": "/data/landun/workspace/lib/SQLiteCpp/src/Transaction.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/SQLiteCpp/sqlite3",
+  "command": "/usr/lib64/ccache/cc  -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -O3 -DNDEBUG -fPIC -march=native -Wimplicit-fallthrough=0 -Wno-cast-function-type -pthread -o CMakeFiles/sqlite3.dir/sqlite3.c.o -c /data/landun/workspace/lib/SQLiteCpp/sqlite3/sqlite3.c",
+  "file": "/data/landun/workspace/lib/SQLiteCpp/sqlite3/sqlite3.c"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/sqlite",
+  "command": "/usr/lib64/ccache/c++  -I/data/landun/workspace/lib/SQLiteCpp/sqlite3 -I/data/landun/workspace/lib/lua/src -O3 -DNDEBUG -march=native -pthread -std=c++17 -o CMakeFiles/lsqlite.dir/lsqlite3.cpp.o -c /data/landun/workspace/lib/sqlite/lsqlite3.cpp",
+  "file": "/data/landun/workspace/lib/sqlite/lsqlite3.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/tolua++",
+  "command": "/usr/lib64/ccache/c++  -I/data/landun/workspace/lib/tolua++/../../src -I/data/landun/workspace/lib/tolua++/include -I/data/landun/workspace/lib/tolua++/.. -I/data/landun/workspace/lib/tolua++ -I/data/landun/workspace/lib/lua/src -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/tolualib.dir/src/lib/tolua_event.cpp.o -c /data/landun/workspace/lib/tolua++/src/lib/tolua_event.cpp",
+  "file": "/data/landun/workspace/lib/tolua++/src/lib/tolua_event.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/tolua++",
+  "command": "/usr/lib64/ccache/c++  -I/data/landun/workspace/lib/tolua++/../../src -I/data/landun/workspace/lib/tolua++/include -I/data/landun/workspace/lib/tolua++/.. -I/data/landun/workspace/lib/tolua++ -I/data/landun/workspace/lib/lua/src -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/tolualib.dir/src/lib/tolua_is.cpp.o -c /data/landun/workspace/lib/tolua++/src/lib/tolua_is.cpp",
+  "file": "/data/landun/workspace/lib/tolua++/src/lib/tolua_is.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/tolua++",
+  "command": "/usr/lib64/ccache/c++  -I/data/landun/workspace/lib/tolua++/../../src -I/data/landun/workspace/lib/tolua++/include -I/data/landun/workspace/lib/tolua++/.. -I/data/landun/workspace/lib/tolua++ -I/data/landun/workspace/lib/lua/src -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/tolualib.dir/src/lib/tolua_map.cpp.o -c /data/landun/workspace/lib/tolua++/src/lib/tolua_map.cpp",
+  "file": "/data/landun/workspace/lib/tolua++/src/lib/tolua_map.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/tolua++",
+  "command": "/usr/lib64/ccache/c++  -I/data/landun/workspace/lib/tolua++/../../src -I/data/landun/workspace/lib/tolua++/include -I/data/landun/workspace/lib/tolua++/.. -I/data/landun/workspace/lib/tolua++ -I/data/landun/workspace/lib/lua/src -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/tolualib.dir/src/lib/tolua_push.cpp.o -c /data/landun/workspace/lib/tolua++/src/lib/tolua_push.cpp",
+  "file": "/data/landun/workspace/lib/tolua++/src/lib/tolua_push.cpp"
+},
+{
+  "directory": "/data/landun/workspace/build/lib/tolua++",
+  "command": "/usr/lib64/ccache/c++  -I/data/landun/workspace/lib/tolua++/../../src -I/data/landun/workspace/lib/tolua++/include -I/data/landun/workspace/lib/tolua++/.. -I/data/landun/workspace/lib/tolua++ -I/data/landun/workspace/lib/lua/src -O3 -DNDEBUG -march=native -std=c++17 -o CMakeFiles/tolualib.dir/src/lib/tolua_to.cpp.o -c /data/landun/workspace/lib/tolua++/src/lib/tolua_to.cpp",
+  "file": "/data/landun/workspace/lib/tolua++/src/lib/tolua_to.cpp"
+}
+]

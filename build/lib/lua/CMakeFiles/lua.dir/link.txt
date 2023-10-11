@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++ -O3 -DNDEBUG CMakeFiles/lua.dir/src/lua.cpp.o -o ../../Server/lua  ../liblualib.a -lm -ldl 

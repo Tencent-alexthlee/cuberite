@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../libluaexpat.a CMakeFiles/luaexpat.dir/lxplib.cpp.o
+/usr/bin/ranlib ../libluaexpat.a
